@@ -57,6 +57,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Oh dear &lpar;RPG background music/ study music&rpar;](https://www.youtube.com/watch?v=ZA4Ym_hx9s8)
+- [Life&#39;s ponderings ukulele album | James Twose](https://www.youtube.com/watch?v=YZpl6BHxHV0)
+- [Lost piece of the puzzle | original song by James Twose](https://www.youtube.com/watch?v=J74-Y1-uzls)
+- [Must have missed it | Ukulele original](https://www.youtube.com/watch?v=I8iULY53RuI)
+- [Stranger cover - Orla Gartland ukulele cover](https://www.youtube.com/watch?v=4nLhiTYJl5c)
 <!-- YOUTUBE:END -->
 
 
