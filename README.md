@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a whole host of things, both personally and professionally
-- Interesting stuff to look at:
+- Interesting repositories to look at:
   - [jmspack](https://github.com/jameshtwose/jmspack)
   - [example_deliverables](https://github.com/jameshtwose/example_deliverables)
   - [Data-science](https://github.com/jameshtwose/Data-Science)
