@@ -76,3 +76,7 @@
 - [Must have missed it | Ukulele original](https://www.youtube.com/watch?v=I8iULY53RuI)
 - [Stranger cover - Orla Gartland ukulele cover](https://www.youtube.com/watch?v=4nLhiTYJl5c)
 <!-- YOUTUBE:END -->
+
+### Public repositories skills chart
+
+<codersrank-skills-chart username="jameshtwose"></codersrank-skills-chart>
