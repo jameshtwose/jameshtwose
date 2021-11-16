@@ -43,4 +43,12 @@
 <br>
 <br>
 
-<codersrank-timeline username="jameshtwose" type="workexperience"></codersrank-timeline>
+### ⚡ Recent Github Activity 
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
+
+<!-- replace x.x.x with actual version -->
+<script src="https://unpkg.com/@codersrank/timeline@1.1.1/codersrank-timeline.min.js"></script>
