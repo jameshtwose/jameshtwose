@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a whole host of things, both personally and professionally
+  - Interesting stuff to look at:
+    - [jmspack](https://github.com/jameshtwose/jmspack)
+    - example_deliverables
+    - Data-science
 - 🌱 I’m currently learning Model Predictive Control (MPC) and full stack development
 - 👯 I’m looking to collaborate on interesting 
 - 🤔 I’m looking for help with MPC
