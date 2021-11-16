@@ -14,15 +14,6 @@
 - 😄 Pronouns: he/ him
 - ⚡ Fun fact: I do pole dancing in my spare time. 
 
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jameshtwose&count_private=true)
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameshtwose&langs_count=8&layout=compact&count_private=true)](https://github.com/jameshtwose/github-readme-stats)
-
-<br>
 
 ### 🔗 &nbsp; Connect with me/ see my work
 <p align="left">
@@ -36,6 +27,13 @@
 
 <br>
 <br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jameshtwose&count_private=true)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameshtwose&langs_count=8&layout=compact&count_private=true)](https://github.com/jameshtwose/github-readme-stats)
+
 
 ### Languages and Tools
 <img align="left" alt="Python" width="26px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
@@ -51,7 +49,6 @@
 <img align="left" alt="CSS3" width="24px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" />
 
-<br>
 <br>
 <br>
 
