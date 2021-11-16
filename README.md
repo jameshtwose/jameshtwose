@@ -14,6 +14,16 @@
 - 😄 Pronouns: he/ him
 - ⚡ Fun fact: I do pole dancing in my spare time. 
 
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jameshtwose&count_private=true)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameshtwose&langs_count=8&layout=compact&count_private=true)](https://github.com/jameshtwose/github-readme-stats)
+
+<br>
+
 ### 🔗 &nbsp; Connect with me/ see my work
 <p align="left">
 <a href="https://services.jms.rocks" target="blank"><img align="center" src="https://services.jms.rocks/img/logo.png" alt="jamestwose" height="40" width="40" /></a>
@@ -24,9 +34,10 @@
 <a href="https://open.spotify.com/artist/0nb7d2wGMy8y8pvr3bTnV4" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/spotify-2.svg" alt="jamestwose" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCLQar4hSRKHWgJfcrfpAhnw/featured" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" alt="jamestwose" height="30" width="40" /></a>
 
+<br>
+<br>
 
 ### Languages and Tools
-
 <img align="left" alt="Python" width="26px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
 <img align="left" alt="Rlang" width="28px" src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" />
 <img align="left" alt="AWS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
@@ -42,6 +53,7 @@
 
 <br>
 <br>
+<br>
 
 ### ⚡ Recent Github Activity 
 
@@ -53,6 +65,7 @@
 5. 🎉 Merged PR [#1](https://github.com/jameshtwose/fitbit-dash-jms/pull/1) in [jameshtwose/fitbit-dash-jms](https://github.com/jameshtwose/fitbit-dash-jms)
 <!--END_SECTION:activity-->
 
+<br>
 
 ### 📺 Latest YouTube Videos
 
@@ -63,6 +76,3 @@
 - [Must have missed it | Ukulele original](https://www.youtube.com/watch?v=I8iULY53RuI)
 - [Stranger cover - Orla Gartland ukulele cover](https://www.youtube.com/watch?v=4nLhiTYJl5c)
 <!-- YOUTUBE:END -->
-
-
-<codersrank-education username="jameshtwose"></codersrank-education>
