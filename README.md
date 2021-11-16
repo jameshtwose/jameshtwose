@@ -2,10 +2,10 @@
 
 - 🔭 I’m currently working on a whole host of things, both personally and professionally
 - Interesting stuff to look at:
-  - jmspack(https://github.com/jameshtwose/jmspack)
-  - example_deliverables(https://github.com/jameshtwose/example_deliverables)
-  - Data-science(https://github.com/jameshtwose/Data-Science)
-  - covid-dash-jms(https://github.com/jameshtwose/covid-dash-jms)
+  - [jmspack](https://github.com/jameshtwose/jmspack)
+  - [example_deliverables](https://github.com/jameshtwose/example_deliverables)
+  - [Data-science](https://github.com/jameshtwose/Data-Science)
+  - [covid-dash-jms](https://github.com/jameshtwose/covid-dash-jms)
 - 🌱 I’m currently learning Model Predictive Control (MPC) and full stack development
 - 👯 I’m looking to collaborate on interesting academic work, or 
 - 🤔 I’m looking for help with MPC
@@ -14,7 +14,7 @@
 - 😄 Pronouns: he/ him
 - ⚡ Fun fact: I do pole dancing in my spare time. 
 
-🔗 &nbsp;**Connect with me/ see my work**
+### 🔗 &nbsp; Connect with me/ see my work
 <p align="left">
 <a href="https://services.jms.rocks" target="blank"><img align="center" src="https://services.jms.rocks/img/logo.png" alt="jamestwose" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/james-twose-a99b4411a" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="jamestwose" height="30" width="40" /></a>
@@ -25,7 +25,7 @@
 <a href="https://www.youtube.com/channel/UCLQar4hSRKHWgJfcrfpAhnw/featured" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" alt="jamestwose" height="30" width="40" /></a>
 
 
-### Languages and Tools:
+### Languages and Tools
 
 <img align="left" alt="Python" width="26px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
 <img align="left" alt="Rlang" width="28px" src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" />
@@ -54,6 +54,4 @@
 <!--END_SECTION:activity-->
 
 
-
-<!-- replace x.x.x with actual version -->
-<script src="https://unpkg.com/@codersrank/timeline@1.1.1/codersrank-timeline.min.js"></script>
+<codersrank-education username="jameshtwose"></codersrank-education>
