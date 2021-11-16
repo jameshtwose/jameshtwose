@@ -77,6 +77,9 @@
 - [Stranger cover - Orla Gartland ukulele cover](https://www.youtube.com/watch?v=4nLhiTYJl5c)
 <!-- YOUTUBE:END -->
 
+<br>
+
 ### Public repositories skills chart
 
-<codersrank-skills-chart username="jameshtwose"></codersrank-skills-chart>
+<img align="center" alt="codersrank skills chart" width="80%" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=jameshtwose" />
+
