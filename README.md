@@ -7,7 +7,7 @@
   - [Data-science](https://github.com/jameshtwose/Data-Science)
   - [covid-dash-jms](https://github.com/jameshtwose/covid-dash-jms)
 - 🌱 I’m currently learning Model Predictive Control (MPC) and full stack development
-- 👯 I’m looking to collaborate on interesting academic work, or 
+- 👯 I’m looking to collaborate on interesting academic work, or fun entrepreneurial stuff
 - 🤔 I’m looking for help with MPC
 - 💬 Ask me about Music or Data Science
 - 📫 How to reach me: contact@jamestwose.com
@@ -52,6 +52,12 @@
 4. 💪 Opened PR [#2](https://github.com/jameshtwose/jmspack/pull/2) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
 5. 🎉 Merged PR [#1](https://github.com/jameshtwose/fitbit-dash-jms/pull/1) in [jameshtwose/fitbit-dash-jms](https://github.com/jameshtwose/fitbit-dash-jms)
 <!--END_SECTION:activity-->
+
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 
 <codersrank-education username="jameshtwose"></codersrank-education>
