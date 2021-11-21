@@ -55,6 +55,11 @@
 ### ⚡ Recent Github Activity 
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3](https://github.com/jameshtwose/jmspack/pull/3) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
+2. 💪 Opened PR [#3](https://github.com/jameshtwose/jmspack/pull/3) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
+3. 🎉 Merged PR [#2](https://github.com/jameshtwose/jmspack/pull/2) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
+4. 💪 Opened PR [#2](https://github.com/jameshtwose/jmspack/pull/2) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
+5. 🎉 Merged PR [#1](https://github.com/jameshtwose/fitbit-dash-jms/pull/1) in [jameshtwose/fitbit-dash-jms](https://github.com/jameshtwose/fitbit-dash-jms)
 <!--END_SECTION:activity-->
 
 <br>
