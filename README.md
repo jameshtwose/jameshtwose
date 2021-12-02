@@ -65,7 +65,7 @@
 <br>
   
 ### :books: Latest Academic Work
-<a href="https://www.youtube.com/channel/UCLQar4hSRKHWgJfcrfpAhnw/featured" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" alt="jamestwose" height="30" width="40" /></a>
+<a href="https://raw.githubusercontent.com/jameshtwose/jameshtwose/main/Screenshot%202021-12-02%20at%2023.04.47.png" alt="ews_supp" height="auto" width="100%" /></a>
 
 
 ### 📺 Latest YouTube Videos
