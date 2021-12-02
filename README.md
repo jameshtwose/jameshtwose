@@ -64,9 +64,9 @@
 
 <br>
   
-<figure class="video_container">
-  <iframe src="https://jameshtwose.github.io/EWS-supplemental-material/" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+### :books: Latest Academic Work
+<a href="https://www.youtube.com/channel/UCLQar4hSRKHWgJfcrfpAhnw/featured" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" alt="jamestwose" height="30" width="40" /></a>
+
 
 ### 📺 Latest YouTube Videos
 
