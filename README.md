@@ -65,7 +65,7 @@
 <br>
   
 ### :books: Latest Academic Work
-<a href="https://raw.githubusercontent.com/jameshtwose/jameshtwose/main/Screenshot%202021-12-02%20at%2023.04.47.png" alt="ews_supp" height="auto" width="100%" /></a>
+<a href="https://jameshtwose.github.io/EWS-supplemental-material/" target="blank"><img align="center" src="https://raw.githubusercontent.com/jameshtwose/jameshtwose/main/Screenshot%202021-12-02%20at%2023.04.47.png" alt="ews-supp" height="100%" width="100%" /></a>
 
 
 ### 📺 Latest YouTube Videos
