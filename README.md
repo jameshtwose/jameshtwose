@@ -63,6 +63,10 @@
 <!--END_SECTION:activity-->
 
 <br>
+  
+<figure class="video_container">
+  <iframe src="https://jameshtwose.github.io/EWS-supplemental-material/" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ### 📺 Latest YouTube Videos
 
