@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on a whole host of things, both personally and professionally
 - Interesting repositories to look at:
+  - [multi-method-protective-behaviour (Citizen-Shield)](https://github.com/Citizen-Shield/multi-method-protective-behaviour/tree/jms_code)
   - [jmspack](https://github.com/jameshtwose/jmspack)
   - [example_deliverables](https://github.com/jameshtwose/example_deliverables)
   - [Data-science](https://github.com/jameshtwose/Data-Science)
