@@ -81,7 +81,5 @@
 
 <br>
 
-### Public repositories skills chart
 
-<img align="center" alt="codersrank skills chart" width="80%" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=jameshtwose" />
 
