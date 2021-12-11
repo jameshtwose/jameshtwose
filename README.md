@@ -2,11 +2,12 @@
 
 - 🔭 I’m currently working on a whole host of things, both personally and professionally
 - Interesting repositories to look at:
-  - [multi-method-protective-behaviour (Citizen-Shield)](https://github.com/Citizen-Shield/multi-method-protective-behaviour/tree/jms_code)
+  - [multi-method-protective-behaviour (Citizen-Shield)](https://github.com/Citizen-Shield/multi-method-protective-behaviour)
   - [jmspack](https://github.com/jameshtwose/jmspack)
   - [example_deliverables](https://github.com/jameshtwose/example_deliverables)
   - [Data-science](https://github.com/jameshtwose/Data-Science)
   - [covid-dash-jms](https://github.com/jameshtwose/covid-dash-jms)
+  - [apple-mobility-dash](https://github.com/jameshtwose/apple-mobility-dash)
 - 🌱 I’m currently learning Model Predictive Control (MPC) and full stack development
 - 👯 I’m looking to collaborate on interesting academic work, or fun entrepreneurial stuff
 - 🤔 I’m looking for help with MPC
