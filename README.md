@@ -57,11 +57,11 @@
 ### ⚡ Recent Github Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/jameshtwose/jmspack/pull/4) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
-2. 💪 Opened PR [#4](https://github.com/jameshtwose/jmspack/pull/4) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
-3. 🎉 Merged PR [#1](https://github.com/Citizen-Shield/multi-method-protective-behaviour/pull/1) in [Citizen-Shield/multi-method-protective-behaviour](https://github.com/Citizen-Shield/multi-method-protective-behaviour)
-4. 💪 Opened PR [#1](https://github.com/Citizen-Shield/multi-method-protective-behaviour/pull/1) in [Citizen-Shield/multi-method-protective-behaviour](https://github.com/Citizen-Shield/multi-method-protective-behaviour)
-5. ❗️ Opened issue [#1](https://github.com/jameshtwose/EWS-supplemental-material/issues/1) in [jameshtwose/EWS-supplemental-material](https://github.com/jameshtwose/EWS-supplemental-material)
+1. 🎉 Merged PR [#6](https://github.com/jameshtwose/jmspack/pull/6) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
+2. 💪 Opened PR [#6](https://github.com/jameshtwose/jmspack/pull/6) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
+3. 🎉 Merged PR [#5](https://github.com/jameshtwose/jmspack/pull/5) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
+4. 💪 Opened PR [#5](https://github.com/jameshtwose/jmspack/pull/5) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
+5. 🎉 Merged PR [#4](https://github.com/jameshtwose/jmspack/pull/4) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
 <!--END_SECTION:activity-->
 
 <br>
