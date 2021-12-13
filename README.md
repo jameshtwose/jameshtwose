@@ -73,11 +73,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [A Fun Sequence](https://www.youtube.com/watch?v=HS023Ct-vlc)
 - [Letter from Mum](https://www.youtube.com/watch?v=MRxS0SJcgEs)
 - [Chasing God Rays](https://www.youtube.com/watch?v=qpV_LKBD_Os)
 - [Must Have Missed It](https://www.youtube.com/watch?v=Yn6kH3ixcwA)
 - [Wanderer](https://www.youtube.com/watch?v=n3SXg2aReWE)
-- [Uncomfortable](https://www.youtube.com/watch?v=nfl03lCDnD8)
 <!-- YOUTUBE:END -->
 
 <br>
