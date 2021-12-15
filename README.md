@@ -67,7 +67,9 @@
 <br>
   
 ### :books: Latest Academic Work
-<a href="https://jameshtwose.github.io/EWS-supplemental-material/" target="blank"><img align="center" src="https://raw.githubusercontent.com/jameshtwose/jameshtwose/main/Screenshot%202021-12-02%20at%2023.04.47.png" alt="ews-supp" height="100%" width="100%" /></a>
+<a href="https://citizen-shield.github.io/multi-method-protective-behaviour/" target="blank"><img align="center" src="https://raw.githubusercontent.com/jameshtwose/jameshtwose/main/Screenshot%202021-12-15%20at%2019.27.50.png" alt="multi-supp" height="100%" width="100%" /></a>
+
+<a href="https://jameshtwose.github.io/EWS-supplemental-material/" target="blank"><img align="center" src="https://raw.githubusercontent.com/jameshtwose/jameshtwose/main/Screenshot%202021-12-15%20at%2019.27.22.png" alt="ews-supp" height="100%" width="100%" /></a>
 
 
 ### 📺 Latest YouTube Videos
