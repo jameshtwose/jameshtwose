@@ -57,11 +57,11 @@
 ### ⚡ Recent Github Activity 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/jameshtwose/jmspack/issues/9) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
-2. ❗️ Opened issue [#8](https://github.com/jameshtwose/jmspack/issues/8) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
-3. ❗️ Opened issue [#7](https://github.com/jameshtwose/jmspack/issues/7) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
-4. 🎉 Merged PR [#6](https://github.com/jameshtwose/jmspack/pull/6) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
-5. 💪 Opened PR [#6](https://github.com/jameshtwose/jmspack/pull/6) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
+1. 🎉 Merged PR [#10](https://github.com/jameshtwose/jmspack/pull/10) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
+2. 💪 Opened PR [#10](https://github.com/jameshtwose/jmspack/pull/10) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
+3. ❗️ Opened issue [#9](https://github.com/jameshtwose/jmspack/issues/9) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
+4. ❗️ Opened issue [#8](https://github.com/jameshtwose/jmspack/issues/8) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
+5. ❗️ Opened issue [#7](https://github.com/jameshtwose/jmspack/issues/7) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
 <!--END_SECTION:activity-->
 
 <br>
