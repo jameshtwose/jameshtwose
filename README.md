@@ -57,10 +57,10 @@
 ### ⚡ Recent Github Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/jameshtwose/jmspack/pull/11) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
-2. 🎉 Merged PR [#4](https://github.com/jameshtwose/Data-Science/pull/4) in [jameshtwose/Data-Science](https://github.com/jameshtwose/Data-Science)
-3. 🎉 Merged PR [#3](https://github.com/jameshtwose/Data-Science/pull/3) in [jameshtwose/Data-Science](https://github.com/jameshtwose/Data-Science)
-4. 💪 Opened PR [#10](https://github.com/jameshtwose/jmspack/pull/10) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
+1. 🎉 Merged PR [#11](https://github.com/jameshtwose/jmspack/pull/11) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
+2. 💪 Opened PR [#11](https://github.com/jameshtwose/jmspack/pull/11) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
+3. 🎉 Merged PR [#4](https://github.com/jameshtwose/Data-Science/pull/4) in [jameshtwose/Data-Science](https://github.com/jameshtwose/Data-Science)
+4. 🎉 Merged PR [#3](https://github.com/jameshtwose/Data-Science/pull/3) in [jameshtwose/Data-Science](https://github.com/jameshtwose/Data-Science)
 5. ❗️ Opened issue [#9](https://github.com/jameshtwose/jmspack/issues/9) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
 <!--END_SECTION:activity-->
 
