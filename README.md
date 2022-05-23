@@ -57,11 +57,11 @@
 ### ⚡ Recent Github Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/G-Licitra/scikit-identification/pull/3) in [G-Licitra/scikit-identification](https://github.com/G-Licitra/scikit-identification)
-2. 💪 Opened PR [#3](https://github.com/G-Licitra/scikit-identification/pull/3) in [G-Licitra/scikit-identification](https://github.com/G-Licitra/scikit-identification)
-3. 🎉 Merged PR [#7](https://github.com/jameshtwose/Data-Science/pull/7) in [jameshtwose/Data-Science](https://github.com/jameshtwose/Data-Science)
-4. 🎉 Merged PR [#6](https://github.com/jameshtwose/Data-Science/pull/6) in [jameshtwose/Data-Science](https://github.com/jameshtwose/Data-Science)
-5. 🎉 Merged PR [#5](https://github.com/jameshtwose/Data-Science/pull/5) in [jameshtwose/Data-Science](https://github.com/jameshtwose/Data-Science)
+1. 🎉 Merged PR [#12](https://github.com/jameshtwose/jmspack/pull/12) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
+2. 💪 Opened PR [#12](https://github.com/jameshtwose/jmspack/pull/12) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
+3. 🎉 Merged PR [#3](https://github.com/G-Licitra/scikit-identification/pull/3) in [G-Licitra/scikit-identification](https://github.com/G-Licitra/scikit-identification)
+4. 💪 Opened PR [#3](https://github.com/G-Licitra/scikit-identification/pull/3) in [G-Licitra/scikit-identification](https://github.com/G-Licitra/scikit-identification)
+5. 🎉 Merged PR [#7](https://github.com/jameshtwose/Data-Science/pull/7) in [jameshtwose/Data-Science](https://github.com/jameshtwose/Data-Science)
 <!--END_SECTION:activity-->
 
 <br>
