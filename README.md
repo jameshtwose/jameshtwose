@@ -57,11 +57,11 @@
 ### ⚡ Recent Github Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/jameshtwose/jmspack/pull/12) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
-2. 💪 Opened PR [#12](https://github.com/jameshtwose/jmspack/pull/12) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
-3. 🎉 Merged PR [#3](https://github.com/G-Licitra/scikit-identification/pull/3) in [G-Licitra/scikit-identification](https://github.com/G-Licitra/scikit-identification)
-4. 💪 Opened PR [#3](https://github.com/G-Licitra/scikit-identification/pull/3) in [G-Licitra/scikit-identification](https://github.com/G-Licitra/scikit-identification)
-5. 🎉 Merged PR [#7](https://github.com/jameshtwose/Data-Science/pull/7) in [jameshtwose/Data-Science](https://github.com/jameshtwose/Data-Science)
+1. 🎉 Merged PR [#1](https://github.com/jameshtwose/plotting_js/pull/1) in [jameshtwose/plotting_js](https://github.com/jameshtwose/plotting_js)
+2. 💪 Opened PR [#1](https://github.com/jameshtwose/plotting_js/pull/1) in [jameshtwose/plotting_js](https://github.com/jameshtwose/plotting_js)
+3. 🎉 Merged PR [#12](https://github.com/jameshtwose/jmspack/pull/12) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
+4. 💪 Opened PR [#12](https://github.com/jameshtwose/jmspack/pull/12) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
+5. 🎉 Merged PR [#3](https://github.com/G-Licitra/scikit-identification/pull/3) in [G-Licitra/scikit-identification](https://github.com/G-Licitra/scikit-identification)
 <!--END_SECTION:activity-->
 
 <br>
