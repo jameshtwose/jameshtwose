@@ -57,11 +57,11 @@
 ### ⚡ Recent Github Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/jameshtwose/plotting_js/pull/1) in [jameshtwose/plotting_js](https://github.com/jameshtwose/plotting_js)
-2. 💪 Opened PR [#1](https://github.com/jameshtwose/plotting_js/pull/1) in [jameshtwose/plotting_js](https://github.com/jameshtwose/plotting_js)
-3. 🎉 Merged PR [#12](https://github.com/jameshtwose/jmspack/pull/12) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
-4. 💪 Opened PR [#12](https://github.com/jameshtwose/jmspack/pull/12) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
-5. 🎉 Merged PR [#3](https://github.com/G-Licitra/scikit-identification/pull/3) in [G-Licitra/scikit-identification](https://github.com/G-Licitra/scikit-identification)
+1. ❗️ Opened issue [#1](https://github.com/jameshtwose/jmspwr/issues/1) in [jameshtwose/jmspwr](https://github.com/jameshtwose/jmspwr)
+2. ❗️ Opened issue [#1](https://github.com/jameshtwose/todos-app/issues/1) in [jameshtwose/todos-app](https://github.com/jameshtwose/todos-app)
+3. 🎉 Merged PR [#1](https://github.com/jameshtwose/plotting_js/pull/1) in [jameshtwose/plotting_js](https://github.com/jameshtwose/plotting_js)
+4. 💪 Opened PR [#1](https://github.com/jameshtwose/plotting_js/pull/1) in [jameshtwose/plotting_js](https://github.com/jameshtwose/plotting_js)
+5. 🎉 Merged PR [#12](https://github.com/jameshtwose/jmspack/pull/12) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
 <!--END_SECTION:activity-->
 
 <br>
