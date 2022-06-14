@@ -57,11 +57,11 @@
 ### ⚡ Recent Github Activity 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/jameshtwose/ING-dashboard/issues/2) in [jameshtwose/ING-dashboard](https://github.com/jameshtwose/ING-dashboard)
-2. ❗️ Opened issue [#1](https://github.com/jameshtwose/ING-dashboard/issues/1) in [jameshtwose/ING-dashboard](https://github.com/jameshtwose/ING-dashboard)
-3. ❗️ Opened issue [#1](https://github.com/jameshtwose/jmspwr/issues/1) in [jameshtwose/jmspwr](https://github.com/jameshtwose/jmspwr)
-4. ❗️ Opened issue [#1](https://github.com/jameshtwose/todos-app/issues/1) in [jameshtwose/todos-app](https://github.com/jameshtwose/todos-app)
-5. 🎉 Merged PR [#1](https://github.com/jameshtwose/plotting_js/pull/1) in [jameshtwose/plotting_js](https://github.com/jameshtwose/plotting_js)
+1. ❗️ Opened issue [#13](https://github.com/jameshtwose/jmspack/issues/13) in [jameshtwose/jmspack](https://github.com/jameshtwose/jmspack)
+2. ❗️ Opened issue [#2](https://github.com/jameshtwose/ING-dashboard/issues/2) in [jameshtwose/ING-dashboard](https://github.com/jameshtwose/ING-dashboard)
+3. ❗️ Opened issue [#1](https://github.com/jameshtwose/ING-dashboard/issues/1) in [jameshtwose/ING-dashboard](https://github.com/jameshtwose/ING-dashboard)
+4. ❗️ Opened issue [#1](https://github.com/jameshtwose/jmspwr/issues/1) in [jameshtwose/jmspwr](https://github.com/jameshtwose/jmspwr)
+5. ❗️ Opened issue [#1](https://github.com/jameshtwose/todos-app/issues/1) in [jameshtwose/todos-app](https://github.com/jameshtwose/todos-app)
 <!--END_SECTION:activity-->
 
 <br>
