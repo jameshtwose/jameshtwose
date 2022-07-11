@@ -30,6 +30,7 @@
 <br>
 <br>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jameshtwose)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jameshtwose&count_private=true)
 
 <br>
