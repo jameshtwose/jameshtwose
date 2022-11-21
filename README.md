@@ -61,11 +61,11 @@
 ### ⚡ Recent Github Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/jameshtwose/finance-dashboard/pull/3) in [jameshtwose/finance-dashboard](https://github.com/jameshtwose/finance-dashboard)
-2. 💪 Opened PR [#3](https://github.com/jameshtwose/finance-dashboard/pull/3) in [jameshtwose/finance-dashboard](https://github.com/jameshtwose/finance-dashboard)
-3. 🎉 Merged PR [#8](https://github.com/jameshtwose/Data-Science/pull/8) in [jameshtwose/Data-Science](https://github.com/jameshtwose/Data-Science)
-4. 🎉 Merged PR [#9](https://github.com/jameshtwose/Data-Science/pull/9) in [jameshtwose/Data-Science](https://github.com/jameshtwose/Data-Science)
-5. 🎉 Merged PR [#11](https://github.com/jameshtwose/Data-Science/pull/11) in [jameshtwose/Data-Science](https://github.com/jameshtwose/Data-Science)
+1. 🗣 Commented on [#1](https://github.com/jameshtwose/finance-dashboard/issues/1) in [jameshtwose/finance-dashboard](https://github.com/jameshtwose/finance-dashboard)
+2. 🎉 Merged PR [#4](https://github.com/jameshtwose/finance-dashboard/pull/4) in [jameshtwose/finance-dashboard](https://github.com/jameshtwose/finance-dashboard)
+3. 💪 Opened PR [#4](https://github.com/jameshtwose/finance-dashboard/pull/4) in [jameshtwose/finance-dashboard](https://github.com/jameshtwose/finance-dashboard)
+4. 🎉 Merged PR [#3](https://github.com/jameshtwose/finance-dashboard/pull/3) in [jameshtwose/finance-dashboard](https://github.com/jameshtwose/finance-dashboard)
+5. 💪 Opened PR [#3](https://github.com/jameshtwose/finance-dashboard/pull/3) in [jameshtwose/finance-dashboard](https://github.com/jameshtwose/finance-dashboard)
 <!--END_SECTION:activity-->
 
 <br>
