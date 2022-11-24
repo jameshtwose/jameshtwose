@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a whole host of things, both personally and professionally
 - Interesting repositories to look at:
   - [ING-dashboard](https://github.com/jameshtwose/ING-dashboard) (ING dashboard to visualize your finances)
-  - [multi-method-protective-behaviour (Citizen-Shield)](https://github.com/Citizen-Shield/multi-method-protective-behaviour) (latest public academic work)
+  - [multi-method-protective-behaviour (Citizen-Shield)](https://github.com/Citizen-Shield/multi-method-protective-behaviour) (latest public academic code)
   - [jmspack](https://github.com/jameshtwose/jmspack) (python package)
   - [example_deliverables](https://github.com/jameshtwose/example_deliverables) (work using toy datasets as an example of how I work)
   - [Data-science](https://github.com/jameshtwose/Data-Science) (repository used to learn new data science methods and approaches)
