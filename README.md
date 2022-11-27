@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on a whole host of things, both personally and professionally
 - Interesting repositories to look at:
-  - [ING-dashboard](https://github.com/jameshtwose/ING-dashboard) (ING dashboard to visualize your finances)
+  - [finance-dashboard](https://github.com/jameshtwose/finance-dashboard) (dashboard to visualize your finances: [demo](https://www.linkedin.com/feed/update/urn:li:activity:7000517223991672832/))
   - [multi-method-protective-behaviour (Citizen-Shield)](https://github.com/Citizen-Shield/multi-method-protective-behaviour) (latest public academic code)
-  - [jmspack](https://github.com/jameshtwose/jmspack) (python package)
+  - [jmspack](https://github.com/jameshtwose/jmspack) (python package for data science/ machine learning)
   - [example_deliverables](https://github.com/jameshtwose/example_deliverables) (work using toy datasets as an example of how I work)
   - [Data-science](https://github.com/jameshtwose/Data-Science) (repository used to learn new data science methods and approaches)
   - [covid-dash-jms](https://github.com/jameshtwose/covid-dash-jms) (a dashboard to follow global COVID trends)
