@@ -61,11 +61,11 @@
 ### ⚡ Recent Github Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/jameshtwose/finance-dashboard/issues/9) in [jameshtwose/finance-dashboard](https://github.com/jameshtwose/finance-dashboard)
-2. ❗️ Closed issue [#10](https://github.com/jameshtwose/finance-dashboard/issues/10) in [jameshtwose/finance-dashboard](https://github.com/jameshtwose/finance-dashboard)
-3. ❗️ Closed issue [#11](https://github.com/jameshtwose/finance-dashboard/issues/11) in [jameshtwose/finance-dashboard](https://github.com/jameshtwose/finance-dashboard)
-4. 🗣 Commented on [#10](https://github.com/jameshtwose/finance-dashboard/issues/10) in [jameshtwose/finance-dashboard](https://github.com/jameshtwose/finance-dashboard)
-5. 🗣 Commented on [#8](https://github.com/jameshtwose/finance-dashboard/issues/8) in [jameshtwose/finance-dashboard](https://github.com/jameshtwose/finance-dashboard)
+1. 🗣 Commented on [#6](https://github.com/jameshtwose/finance-dashboard/issues/6) in [jameshtwose/finance-dashboard](https://github.com/jameshtwose/finance-dashboard)
+2. 🗣 Commented on [#7](https://github.com/jameshtwose/finance-dashboard/issues/7) in [jameshtwose/finance-dashboard](https://github.com/jameshtwose/finance-dashboard)
+3. 🗣 Commented on [#5](https://github.com/jameshtwose/finance-dashboard/issues/5) in [jameshtwose/finance-dashboard](https://github.com/jameshtwose/finance-dashboard)
+4. 🗣 Commented on [#9](https://github.com/jameshtwose/finance-dashboard/issues/9) in [jameshtwose/finance-dashboard](https://github.com/jameshtwose/finance-dashboard)
+5. ❗️ Closed issue [#10](https://github.com/jameshtwose/finance-dashboard/issues/10) in [jameshtwose/finance-dashboard](https://github.com/jameshtwose/finance-dashboard)
 <!--END_SECTION:activity-->
 
 <br>
