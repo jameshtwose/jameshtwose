@@ -61,11 +61,11 @@
 ### ⚡ Recent Github Activity 
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/jameshtwose/finance-dashboard/issues/5) in [jameshtwose/finance-dashboard](https://github.com/jameshtwose/finance-dashboard)
-2. ❗️ Closed issue [#6](https://github.com/jameshtwose/finance-dashboard/issues/6) in [jameshtwose/finance-dashboard](https://github.com/jameshtwose/finance-dashboard)
-3. ❗️ Closed issue [#7](https://github.com/jameshtwose/finance-dashboard/issues/7) in [jameshtwose/finance-dashboard](https://github.com/jameshtwose/finance-dashboard)
-4. ❗️ Closed issue [#8](https://github.com/jameshtwose/finance-dashboard/issues/8) in [jameshtwose/finance-dashboard](https://github.com/jameshtwose/finance-dashboard)
-5. ❗️ Closed issue [#9](https://github.com/jameshtwose/finance-dashboard/issues/9) in [jameshtwose/finance-dashboard](https://github.com/jameshtwose/finance-dashboard)
+1. 🎉 Merged PR [#2](https://github.com/jameshtwose/plotting_js/pull/2) in [jameshtwose/plotting_js](https://github.com/jameshtwose/plotting_js)
+2. ❗️ Closed issue [#5](https://github.com/jameshtwose/finance-dashboard/issues/5) in [jameshtwose/finance-dashboard](https://github.com/jameshtwose/finance-dashboard)
+3. ❗️ Closed issue [#6](https://github.com/jameshtwose/finance-dashboard/issues/6) in [jameshtwose/finance-dashboard](https://github.com/jameshtwose/finance-dashboard)
+4. ❗️ Closed issue [#7](https://github.com/jameshtwose/finance-dashboard/issues/7) in [jameshtwose/finance-dashboard](https://github.com/jameshtwose/finance-dashboard)
+5. ❗️ Closed issue [#8](https://github.com/jameshtwose/finance-dashboard/issues/8) in [jameshtwose/finance-dashboard](https://github.com/jameshtwose/finance-dashboard)
 <!--END_SECTION:activity-->
 
 <br>
