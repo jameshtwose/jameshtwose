@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on a whole host of things, both personally and professionally
 - Interesting repositories to look at:
+  - [ml-gui](https://github.com/jameshtwose/ml-gui) (a simple machine learning graphical user interface - currently only classification is supported: [demo](https://github.com/jameshtwose/ml-gui/blob/main/README.md))
   - [finance-dashboard](https://github.com/jameshtwose/finance-dashboard) (dashboard to visualize your finances: [demo](https://www.linkedin.com/feed/update/urn:li:activity:7000517223991672832/))
   - [multi-method-protective-behaviour (Citizen-Shield)](https://github.com/Citizen-Shield/multi-method-protective-behaviour) (latest public academic code)
   - [jmspack](https://github.com/jameshtwose/jmspack) (python package for data science/ machine learning)
