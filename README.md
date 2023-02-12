@@ -62,11 +62,11 @@
 ### ⚡ Recent Github Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Konstantinos-Sakellariou/nodatascienceapp/issues/1) in [Konstantinos-Sakellariou/nodatascienceapp](https://github.com/Konstantinos-Sakellariou/nodatascienceapp)
-2. ❗️ Opened issue [#1](https://github.com/Konstantinos-Sakellariou/nodatascienceapp/issues/1) in [Konstantinos-Sakellariou/nodatascienceapp](https://github.com/Konstantinos-Sakellariou/nodatascienceapp)
-3. 🎉 Merged PR [#2](https://github.com/jameshtwose/plotting_js/pull/2) in [jameshtwose/plotting_js](https://github.com/jameshtwose/plotting_js)
-4. ❗️ Closed issue [#5](https://github.com/jameshtwose/finance-dashboard/issues/5) in [jameshtwose/finance-dashboard](https://github.com/jameshtwose/finance-dashboard)
-5. ❗️ Closed issue [#6](https://github.com/jameshtwose/finance-dashboard/issues/6) in [jameshtwose/finance-dashboard](https://github.com/jameshtwose/finance-dashboard)
+1. 🎉 Merged PR [#2](https://github.com/jameshtwose/js_projects/pull/2) in [jameshtwose/js_projects](https://github.com/jameshtwose/js_projects)
+2. 💪 Opened PR [#2](https://github.com/jameshtwose/js_projects/pull/2) in [jameshtwose/js_projects](https://github.com/jameshtwose/js_projects)
+3. 🎉 Merged PR [#1](https://github.com/jameshtwose/js_projects/pull/1) in [jameshtwose/js_projects](https://github.com/jameshtwose/js_projects)
+4. 💪 Opened PR [#1](https://github.com/jameshtwose/js_projects/pull/1) in [jameshtwose/js_projects](https://github.com/jameshtwose/js_projects)
+5. 🗣 Commented on [#1](https://github.com/Konstantinos-Sakellariou/nodatascienceapp/issues/1) in [Konstantinos-Sakellariou/nodatascienceapp](https://github.com/Konstantinos-Sakellariou/nodatascienceapp)
 <!--END_SECTION:activity-->
 
 <br>
