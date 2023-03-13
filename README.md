@@ -19,7 +19,7 @@
 - ⚡ Fun fact: I do pole dancing in my spare time. 
 
 
-### 🔗 &nbsp; Connect with me/ see my work
+### 🔗 Connect with me/ see my work
 <p align="left">
 <a href="https://services.jms.rocks" target="blank"><img align="center" src="https://services.jms.rocks/img/logo.png" alt="jamestwose" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/james-twose-a99b4411a" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="jamestwose" height="30" width="40" /></a>
@@ -29,20 +29,10 @@
 <a href="https://open.spotify.com/artist/0nb7d2wGMy8y8pvr3bTnV4" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/spotify-2.svg" alt="jamestwose" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCLQar4hSRKHWgJfcrfpAhnw/featured" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" alt="jamestwose" height="30" width="40" /></a>
 
-<br>
-<br>
+### 🥇 Github Activity
+<img alt="github metrics" src="github-metrics.svg">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jameshtwose)](https://github.com/ryo-ma/github-profile-trophy)
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jameshtwose)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jameshtwose&count_private=true)
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameshtwose&langs_count=8&layout=compact&count_private=true)](https://github.com/jameshtwose/github-readme-stats)
-
-
-### Languages and Tools
+### 📚 Languages and Tools
 <img align="left" alt="Python" width="26px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
 <img align="left" alt="Rlang" width="28px" src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" />
 <img align="left" alt="AWS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
@@ -58,18 +48,6 @@
 
 <br>
 <br>
-
-### ⚡ Recent Github Activity 
-
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/jameshtwose/jameshtwose/issues/1) in [jameshtwose/jameshtwose](https://github.com/jameshtwose/jameshtwose)
-2. 🎉 Merged PR [#2](https://github.com/jameshtwose/js_projects/pull/2) in [jameshtwose/js_projects](https://github.com/jameshtwose/js_projects)
-3. 💪 Opened PR [#2](https://github.com/jameshtwose/js_projects/pull/2) in [jameshtwose/js_projects](https://github.com/jameshtwose/js_projects)
-4. 🎉 Merged PR [#1](https://github.com/jameshtwose/js_projects/pull/1) in [jameshtwose/js_projects](https://github.com/jameshtwose/js_projects)
-5. 💪 Opened PR [#1](https://github.com/jameshtwose/js_projects/pull/1) in [jameshtwose/js_projects](https://github.com/jameshtwose/js_projects)
-<!--END_SECTION:activity-->
-
-<br>
   
 ### :books: Latest Academic Work
 <a href="https://citizen-shield.github.io/multi-method-protective-behaviour/" target="blank"><img align="center" src="https://raw.githubusercontent.com/jameshtwose/jameshtwose/main/Screenshot%202021-12-15%20at%2019.27.50.png" alt="multi-supp" height="100%" width="100%" /></a>
@@ -77,17 +55,6 @@
 <a href="https://jameshtwose.github.io/EWS-supplemental-material/" target="blank"><img align="center" src="https://raw.githubusercontent.com/jameshtwose/jameshtwose/main/Screenshot%202021-12-15%20at%2019.27.22.png" alt="ews-supp" height="100%" width="100%" /></a>
 
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [A Fun Sequence](https://www.youtube.com/watch?v=HS023Ct-vlc)
-- [Letter from Mum](https://www.youtube.com/watch?v=MRxS0SJcgEs)
-- [Chasing God Rays](https://www.youtube.com/watch?v=qpV_LKBD_Os)
-- [Must Have Missed It](https://www.youtube.com/watch?v=Yn6kH3ixcwA)
-- [Wanderer](https://www.youtube.com/watch?v=n3SXg2aReWE)
-<!-- YOUTUBE:END -->
-
-<br>
 
 
 
