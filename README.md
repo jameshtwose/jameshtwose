@@ -62,11 +62,11 @@
 ### ⚡ Recent Github Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/jameshtwose/js_projects/pull/2) in [jameshtwose/js_projects](https://github.com/jameshtwose/js_projects)
-2. 💪 Opened PR [#2](https://github.com/jameshtwose/js_projects/pull/2) in [jameshtwose/js_projects](https://github.com/jameshtwose/js_projects)
-3. 🎉 Merged PR [#1](https://github.com/jameshtwose/js_projects/pull/1) in [jameshtwose/js_projects](https://github.com/jameshtwose/js_projects)
-4. 💪 Opened PR [#1](https://github.com/jameshtwose/js_projects/pull/1) in [jameshtwose/js_projects](https://github.com/jameshtwose/js_projects)
-5. 🗣 Commented on [#1](https://github.com/Konstantinos-Sakellariou/nodatascienceapp/issues/1) in [Konstantinos-Sakellariou/nodatascienceapp](https://github.com/Konstantinos-Sakellariou/nodatascienceapp)
+1. ❗️ Opened issue [#1](https://github.com/jameshtwose/jameshtwose/issues/1) in [jameshtwose/jameshtwose](https://github.com/jameshtwose/jameshtwose)
+2. 🎉 Merged PR [#2](https://github.com/jameshtwose/js_projects/pull/2) in [jameshtwose/js_projects](https://github.com/jameshtwose/js_projects)
+3. 💪 Opened PR [#2](https://github.com/jameshtwose/js_projects/pull/2) in [jameshtwose/js_projects](https://github.com/jameshtwose/js_projects)
+4. 🎉 Merged PR [#1](https://github.com/jameshtwose/js_projects/pull/1) in [jameshtwose/js_projects](https://github.com/jameshtwose/js_projects)
+5. 💪 Opened PR [#1](https://github.com/jameshtwose/js_projects/pull/1) in [jameshtwose/js_projects](https://github.com/jameshtwose/js_projects)
 <!--END_SECTION:activity-->
 
 <br>
