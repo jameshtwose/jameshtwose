@@ -16,7 +16,6 @@
 - 💬 Ask me about Music or Data Science
 - 📫 How to reach me: contact@jamestwose.com
 - 😄 Pronouns: he/ him
-- ⚡ Fun fact: I do pole dancing in my spare time. 
 
 
 ### 🔗 Connect with me/ see my work
