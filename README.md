@@ -28,6 +28,8 @@
 <a href="https://open.spotify.com/artist/0nb7d2wGMy8y8pvr3bTnV4" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/spotify-2.svg" alt="jamestwose" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCLQar4hSRKHWgJfcrfpAhnw/featured" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" alt="jamestwose" height="30" width="40" /></a>
 
+![](https://komarev.com/ghpvc/?username=jameshtwose&color=blueviolet)
+
 ### 🥇 Github Activity
 <img alt="github metrics" src="github-metrics.svg">
 
