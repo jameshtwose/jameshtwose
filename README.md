@@ -1,16 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a whole host of things, both personally and professionally
-- Interesting repositories to look at:
-  - [ml-gui](https://github.com/jameshtwose/ml-gui) (a simple machine learning graphical user interface - currently only classification is supported: [demo](https://www.linkedin.com/posts/james-twose_python-gui-plotly-activity-7027401987784650752-X7Q8?utm_source=share&utm_medium=member_desktop))
-  - [finance-dashboard](https://github.com/jameshtwose/finance-dashboard) (dashboard to visualize your finances: [demo](https://www.linkedin.com/feed/update/urn:li:activity:7000517223991672832/))
-  - [multi-method-protective-behaviour (Citizen-Shield)](https://github.com/Citizen-Shield/multi-method-protective-behaviour) (latest public academic code)
-  - [jmspack](https://github.com/jameshtwose/jmspack) (python package for data science/ machine learning)
-  - [example_deliverables](https://github.com/jameshtwose/example_deliverables) (work using toy datasets as an example of how I work)
-  - [Data-science](https://github.com/jameshtwose/Data-Science) (repository used to learn new data science methods and approaches)
-  - [covid-dash-jms](https://github.com/jameshtwose/covid-dash-jms) (a dashboard to follow global COVID trends)
-  - [apple-mobility-dash](https://github.com/jameshtwose/apple-mobility-dash) (a dashboard used to follow global mobility trends)
-- 🌱 I’m currently learning Model Predictive Control (MPC) and full stack development
+- 🔭 I quit my job and am now working on a bunch of start ups, wish me luck!
+  - [https://seamlessevents.io](Seamless)
+  - [https://tailtrails.club](Tail Trails Club)
+  - [https://musi-nova.com](Musiniova)
 - 👯 I’m looking to collaborate on interesting academic work, or fun entrepreneurial stuff
 - 🤔 I’m looking for help with MPC
 - 💬 Ask me about Music or Data Science
@@ -20,13 +13,12 @@
 
 ### 🔗 Connect with me/ see my work
 <p align="left">
-<a href="https://services.jms.rocks" target="blank"><img align="center" src="https://services.jms.rocks/img/logo.png" alt="jamestwose" height="40" width="40" /></a>
+<a href="https://jamestwose.com" target="blank"><img align="center" src="https://jamestwose.com/favicon.svg" alt="jamestwose" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/james-twose-a99b4411a" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="jamestwose" height="30" width="40" /></a>
 <a href="https://scholar.google.com/citations?user=9KdO6XMAAAAJ&hl=en&oi=ao" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="jamestwose" height="30" width="40" /></a>
 <a href="https://www.instagram.com/jamestwosemusic" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" alt="jamestwose" height="30" width="40" /></a>
 <a href="https://linktr.ee/jmsmusic" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linktree-2.svg" alt="jamestwose" height="30" width="40" /></a>
 <a href="https://open.spotify.com/artist/0nb7d2wGMy8y8pvr3bTnV4" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/spotify-2.svg" alt="jamestwose" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCLQar4hSRKHWgJfcrfpAhnw/featured" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" alt="jamestwose" height="30" width="40" /></a>
 
 ![](https://komarev.com/ghpvc/?username=jameshtwose&color=blueviolet)
 
