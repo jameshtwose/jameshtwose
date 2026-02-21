@@ -3,7 +3,7 @@
 - 🔭 I quit my job and am now working on a bunch of start ups, wish me luck!
   - [Seamless](https://seamlessevents.io)
   - [Tail Trails Club ](https://tailtrails.club)
-  - [Musiniova](https://musi-nova.com)
+  - [Musinova](https://musi-nova.com)
 - 👯 I’m looking to collaborate on interesting academic work, or fun entrepreneurial stuff
 - 🤔 I’m looking for help with MPC
 - 💬 Ask me about Music or Data Science
