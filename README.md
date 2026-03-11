@@ -5,9 +5,8 @@
   - [Tail Trails Club ](https://tailtrails.club)
   - [Musinova](https://musi-nova.com)
   - [User Analytics EU](https://user-analytics.eu)
-- 👯 I’m looking to collaborate on interesting academic work, or fun entrepreneurial stuff
-- 🤔 I’m looking for help with MPC
-- 💬 Ask me about Music or Data Science
+  - [What The Flat](https://whattheflat.com)
+
 - 📫 How to reach me: contact@jamestwose.com
 - 😄 Pronouns: he/ him
 
